@@ -1,5 +1,6 @@
 ![logo](http://i.imgur.com/qxC9PbI.png)
 ----
+Requires wxPython 2.9 + 
 minimalistic_browser.py
 ====
 ![logo](http://i.imgur.com/Bk1crvk.png)
